@@ -13,6 +13,9 @@ console.log(humanSize(10 * 1024 * 1024));
 console.log(humanSize(10 * 1024 * 1024, 2));
 // prints "10.00 MB"
 
+console.log(humanSize(106168));
+// prints "103 KB"
+
 console.log(humanSize(106168, 2));
 // prints "103.68 KB"
 ```
