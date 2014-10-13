@@ -1,0 +1,11 @@
+{
+  "name": "human-size",
+  "version": "0.0.0",
+  "description": "human readable file size",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Andrew Kelley <superjoe30@gmail.com>",
+  "license": "MIT"
+}
